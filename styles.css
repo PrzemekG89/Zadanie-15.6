@@ -1,0 +1,40 @@
+body {
+    background-color: #607D8B;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.controls {
+    margin-top: 30px;
+}
+
+.controls>a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#start {
+    background-color: #1cbd1c;
+}
+
+#stop {
+    background-color: #f10e0e;
+}
+
+#reset {
+    background-color: #f7a312;
+}
+
+.stopwatch {
+    font-size: 46px;
+    color: #eeeeee;
+    letter-spacing: 2px;
+    padding: 5px;
+}
