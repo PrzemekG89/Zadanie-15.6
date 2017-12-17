@@ -2,33 +2,30 @@ body {
     background-color: #607D8B;
 }
 
-.container {
+#container {
     width: 900px;
     margin: 0 auto;
     text-align: center;
 }
 
-.controls {
-    margin-top: 30px;
-}
-
-.controls>a {
-    text-decoration: none;
+button {
+    margin: 30px 1px 0 1px;
     font-size: 24px;
     color: #fff;
     padding: 5px;
     border-radius: 5px;
+    border: none;
 }
 
-#start {
+.start {
     background-color: #1cbd1c;
 }
 
-#stop {
+.stop {
     background-color: #f10e0e;
 }
 
-#reset {
+.reset {
     background-color: #f7a312;
 }
 
